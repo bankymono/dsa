@@ -2,9 +2,9 @@ package org.bankymono;
 
 public class PeakEmentInArray {
 
-    public static void main(String[] args) {
-
-    }
+//    public static void main(String[] args) {
+//
+//    }
 
     public static int theAns(int[] arr){
         int start = 0;

@@ -2,9 +2,9 @@ package org.bankymono;
 
 public class SearchInMountain {
 
-    public static void main(String[] args) {
-
-    }
+//    public static void main(String[] args) {
+//
+//    }
 
     static int ans(int[] arr, int target){
         int index = -1;

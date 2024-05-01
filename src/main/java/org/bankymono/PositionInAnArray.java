@@ -15,12 +15,11 @@ public class PositionInAnArray {
     static int[] positionOfTarget(int target, int[] arr){
         int[] ans = {-1,-1};
         Employee emp = new Employee();
-        emp.getSalary().c
+        emp.getSalary();
         ans[0] = findTarget(arr, target, true);
         ans[1] = findTarget(arr, target, false);
         return ans;
     }
-Long
 
 
 
