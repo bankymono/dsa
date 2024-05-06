@@ -15,3 +15,7 @@ a
 1src/main/java/org/bankymono/SearchInMountain.java,0\3\03ba7681946c4040cee169604af678c084b062a9
 W
 'src/main/java/SearchInRotatedArray.java,e\0\e0be766c98ecf86bccbf6df884d83f23adf2e939
+^
+.src/main/java/org/bankymono/CountRotation.java,9\4\948934d88a4c5e21e7b12f71ea3cb0e3ab9188e1
+[
++src/main/java/org/bankymono/SplitArray.java,a\3\a33cfcc5928640c8c488268ec1fa434fb18592ff

@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ac6a959-d3ea-4f2d-847e-d14a04b0126d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SearchInRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bankymono/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bankymono/CountRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bankymono/SplitArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/bankymono/PeakEmentInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/bankymono/PeakEmentInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/bankymono/PositionInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/bankymono/PositionInAnArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/bankymono/SearchInMountain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/bankymono/SearchInMountain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CountRotation.executor": "Run",
     "Application.InfiniteArraySearch.executor": "Run",
     "Application.PositionInAnArray.executor": "Run",
     "Application.SearchInRotatedArray.executor": "Run",
@@ -57,7 +58,33 @@
       <recent name="C:\Users\Ayodeji.quadri\Documents\projects\dsa\src\main\java\org\bankymono" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SearchInRotatedArray">
+  <component name="RunManager" selected="Application.BubbleSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bankymono.BubbleSort" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bankymono.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bankymono.CountRotation" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bankymono.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InfiniteArraySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.bankymono.InfiniteArraySearch" />
       <module name="dsa" />
@@ -93,6 +120,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.CountRotation" />
         <item itemvalue="Application.SearchInRotatedArray" />
         <item itemvalue="Application.InfiniteArraySearch" />
         <item itemvalue="Application.PositionInAnArray" />
