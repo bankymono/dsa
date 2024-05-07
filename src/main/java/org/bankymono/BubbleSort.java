@@ -3,12 +3,12 @@ package org.bankymono;
 import java.util.Arrays;
 
 public class BubbleSort {
-    public static void main(String[] args) {
-
-        int[] arr  = {16,4,45,12,10,18};
-bubble(arr);
-        System.out.println(Arrays.toString(arr));
-    }
+//    public static void main(String[] args) {
+//
+//        int[] arr  = {16,4,45,12,10,18};
+//bubble(arr);
+//        System.out.println(Arrays.toString(arr));
+//    }
 
     static void bubble(int[] arr){
         for(int i= 0; i < arr.length; ++i){
