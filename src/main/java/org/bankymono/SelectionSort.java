@@ -26,6 +26,8 @@ public class SelectionSort {
             }
         }
         return max;
+
+
     }
 
     public static void swap(int[] arr, int first, int second){

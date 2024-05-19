@@ -21,3 +21,15 @@ W
 +src/main/java/org/bankymono/SplitArray.java,a\3\a33cfcc5928640c8c488268ec1fa434fb18592ff
 [
 +src/main/java/org/bankymono/BubbleSort.java,2\2\22c1f3f4c6cf803afbd4f3d2e450dedff6e862b0
+^
+.src/main/java/org/bankymono/SelectionSort.java,0\0\0079894c4ae5a72d10910c1adff36a446f4999c6
+^
+.src/main/java/org/bankymono/InsertionSort.java,0\a\0a4eb9cd66838cf001b1160b6101bacbd6699192
+^
+.src/main/java/org/bankymono/MissingNumber.java,7\2\72a7aba0a7cfcf450911001681af66a3aa01692a
+Z
+*src/main/java/org/bankymono/Recursion.java,b\f\bfac0576a9070a221dff382ec99dce46bff7643d
+Z
+*src/main/java/org/bankymono/Fibonacci.java,4\7\47f3c4e8787a70da7d82342737fce6381d8b98d0
+]
+-src/main/java/org/bankymono/NewRecursion.java,7\7\7714bbe7d083485328ea491c81f034c9d01101cb
