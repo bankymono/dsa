@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ac6a959-d3ea-4f2d-847e-d14a04b0126d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bankymono/CeilingOfANumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bankymono/SmallestLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bankymono/FirstAndLastPosition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bankymono/SmallestLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/bankymono/SmallestLetter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
     "Application.CeilingOfANumber.executor": "Run",
     "Application.CountRotation.executor": "Run",
     "Application.Fibonacci.executor": "Run",
+    "Application.FirstAndLastPosition.executor": "Run",
     "Application.InfiniteArraySearch.executor": "Run",
     "Application.InsertionSort.executor": "Run",
     "Application.NewRecursion.executor": "Run",
@@ -65,9 +66,22 @@
       <recent name="C:\Users\Ayodeji.quadri\Documents\projects\dsa\src\main\java\org\bankymono" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SmallestLetter">
+  <component name="RunManager" selected="Application.FirstAndLastPosition">
     <configuration name="CeilingOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.bankymono.CeilingOfANumber" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bankymono.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstAndLastPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bankymono.FirstAndLastPosition" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -105,19 +119,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.bankymono.Recursion" />
-      <module name="dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.bankymono.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SmallestLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.bankymono.SmallestLetter" />
       <module name="dsa" />
@@ -133,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstAndLastPosition" />
         <item itemvalue="Application.SmallestLetter" />
         <item itemvalue="Application.CeilingOfANumber" />
         <item itemvalue="Application.OrderAgnosticBS" />
         <item itemvalue="Application.NewRecursion" />
-        <item itemvalue="Application.Recursion" />
       </list>
     </recent_temporary>
   </component>

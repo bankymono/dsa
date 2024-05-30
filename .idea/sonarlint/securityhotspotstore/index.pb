@@ -37,3 +37,5 @@ Z
 0src/main/java/org/bankymono/OrderAgnosticBS.java,7\9\798d7f454538fd5fa9ffe66d27a0bc978706ceaf
 a
 1src/main/java/org/bankymono/CeilingOfANumber.java,3\b\3b982bd3f2840f35ff3823c20c749e861ce720bf
+_
+/src/main/java/org/bankymono/SmallestLetter.java,6\e\6e39aa77e90d586bec417289830ed095fef56b9e
