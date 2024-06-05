@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ac6a959-d3ea-4f2d-847e-d14a04b0126d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bankymono/InfiniteArrayBS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,35 +35,36 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CeilingOfANumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountRotation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstAndLastPosition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InfiniteArraySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NewRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OrderAgnosticBS.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PositionInAnArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Recursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SearchInRotatedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SmallestLetter.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CeilingOfANumber.executor": "Run",
+    "Application.CountRotation.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.FirstAndLastPosition.executor": "Run",
+    "Application.InfiniteArrayBS.executor": "Run",
+    "Application.InfiniteArraySearch.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.NewRecursion.executor": "Run",
+    "Application.OrderAgnosticBS.executor": "Run",
+    "Application.PositionInAnArray.executor": "Run",
+    "Application.Recursion.executor": "Run",
+    "Application.SearchInRotatedArray.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.SmallestLetter.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Ayodeji.quadri\Documents\projects\dsa\src\main\java\org\bankymono" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FirstAndLastPosition">
+  <component name="RunManager" selected="Application.InfiniteArrayBS">
     <configuration name="CeilingOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.bankymono.CeilingOfANumber" />
       <module name="dsa" />
@@ -91,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.bankymono.NewRecursion" />
+    <configuration name="InfiniteArrayBS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bankymono.InfiniteArrayBS" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InfiniteArrayBS" />
         <item itemvalue="Application.FirstAndLastPosition" />
         <item itemvalue="Application.SmallestLetter" />
         <item itemvalue="Application.CeilingOfANumber" />
         <item itemvalue="Application.OrderAgnosticBS" />
-        <item itemvalue="Application.NewRecursion" />
       </list>
     </recent_temporary>
   </component>
@@ -153,5 +153,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/bankymono/InfiniteArrayBS.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/bankymono/InfiniteArrayBS.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
