@@ -39,3 +39,5 @@ a
 1src/main/java/org/bankymono/CeilingOfANumber.java,3\b\3b982bd3f2840f35ff3823c20c749e861ce720bf
 _
 /src/main/java/org/bankymono/SmallestLetter.java,6\e\6e39aa77e90d586bec417289830ed095fef56b9e
+e
+5src/main/java/org/bankymono/FirstAndLastPosition.java,0\8\0842cc0c1b7bd372dcd13be01df0ea38741a278f
