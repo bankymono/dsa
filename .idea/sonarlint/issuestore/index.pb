@@ -45,3 +45,5 @@ e
 .src/main/java/org/bankymono/MountainArray.java,0\2\02de07e9cfad88c32500528d6212c18b075aed14
 `
 0src/main/java/org/bankymono/InfiniteArrayBS.java,e\8\e8468a67643f23277f692a77d4f4192479799692
+b
+2src/main/java/org/bankymono/SearchInMountain2.java,4\a\4aa1b5d2d95cc1ad0be8e09eee9dd995256cce51
