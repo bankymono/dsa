@@ -1,0 +1,7 @@
+
+Y
+java:S1854
+"<Remove this useless assignment to local variable "firstTry".(”Ãı·8Ş”»Ó„2
+L	java:S106"+Replace this use of System.out by a logger.(áşüÛùÿÿÿÿ8â”»Ó„2
+t
+java:S3776G"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(†ÇÎšüÿÿÿÿ8é”»Ó„2
