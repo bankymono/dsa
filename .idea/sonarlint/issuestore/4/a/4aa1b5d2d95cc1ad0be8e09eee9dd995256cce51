@@ -1,2 +1,4 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(òƒ‘ÿúÿÿÿÿ8Ë–»Ó„2
+W
+java:S1118":Add a private constructor to hide the implicit public one.(’ÛÒå8¾—³Û„2
+]	java:S125"<This block of commented-out lines of code should be removed.(»ž•ûÿÿÿÿ8Â—³Û„2

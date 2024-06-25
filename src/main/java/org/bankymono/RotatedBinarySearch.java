@@ -1,21 +1,21 @@
 package org.bankymono;
 
 public class RotatedBinarySearch {
-    public static void main(String[] args) {
-        int[] arr = {4,5,6,7,0,1,2};
-
-        int firstTry= -1;
-        int pivot = findPivot(arr);
-        if(pivot == -1){
-            firstTry = bs(arr,0,0, pivot);
-        }
-
-        firstTry = bs(arr,0,0, pivot);
-        if(firstTry == -1) {
-            firstTry = bs(arr,0,pivot + 1,arr.length - 1);
-        }
-        System.out.println(firstTry);
-    }
+//    public static void main(String[] args) {
+//        int[] arr = {4,5,6,7,0,1,2};
+//
+//        int firstTry= -1;
+//        int pivot = findPivot(arr);
+//        if(pivot == -1){
+//            firstTry = bs(arr,0,0, pivot);
+//        }
+//
+//        firstTry = bs(arr,0,0, pivot);
+//        if(firstTry == -1) {
+//            firstTry = bs(arr,0,pivot + 1,arr.length - 1);
+//        }
+//        System.out.println(firstTry);
+//    }
 
     static int bs(int[] nums, int target, int start, int end){
         boolean isAsc = start < end;

@@ -1,12 +1,12 @@
 package org.bankymono;
 
 public class SearchInMountain2 {
-    public static void main(String[] args) {
-
-        int[] arr = {1,2,3,4,5,3,1};
-        System.out.println(search(arr,5));
-
-    }
+//    public static void main(String[] args) {
+//
+//        int[] arr = {1,2,3,4,5,3,1};
+//        System.out.println(search(arr,5));
+//
+//    }
 
     public static int search(int[] arr, int target){
         int peak = peakIndexInMountainArray(arr);

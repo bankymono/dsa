@@ -49,3 +49,5 @@ b
 2src/main/java/org/bankymono/SearchInMountain2.java,4\a\4aa1b5d2d95cc1ad0be8e09eee9dd995256cce51
 d
 4src/main/java/org/bankymono/RotatedBinarySearch.java,0\a\0ab919846b7da588312bf331a514058cd8a1f77a
+^
+.src/main/java/org/bankymono/RotationCount.java,8\3\8366c31e727c35572e9af73621e47e5b0f7294a5
