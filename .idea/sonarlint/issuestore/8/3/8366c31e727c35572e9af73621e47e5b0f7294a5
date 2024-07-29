@@ -1,2 +1,6 @@
 
-G	java:S106"+Replace this use of System.out by a logger.(’ª¹¨8°„Ü„2
+U
+java:S1144	"3Remove this unused private "countRotations" method.(òŸÄéÿÿÿÿÿ8àßâ¿‹2
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ğ·ÔÛúÿÿÿÿ8ãßâ¿‹2
+]	java:S125"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8”àâ¿‹2

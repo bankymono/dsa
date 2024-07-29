@@ -1,0 +1,13 @@
+
+³
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(™Ÿûä8¾©´•Œ2J$c97826fc-279d-49d2-b5d1-a51d9f62e6bf
+>
+java:S1643'"Use a StringBuilder instead.(’Âƒªÿÿÿÿÿ8„îâÐŒ2
+9
+java:S1643*"Use a StringBuilder instead.(›ã¢¼8…îâÐŒ2
+9
+java:S1643-"Use a StringBuilder instead.(Ò®•î8†îâÐŒ2
+`
+java:S1155 ">Use isEmpty() to check whether the collection is empty or not.(ÊÊø¨úÿÿÿÿ8‡îâÐŒ2
+m	java:S106!"+Replace this use of System.out by a logger.(ãš€³8Ú©´•Œ2J$8054c99d-2993-409d-8038-037dd7fa77be
+m	java:S1061"+Replace this use of System.out by a logger.(Û³’ß8î‹¶•Œ2J$a2110d9b-df42-40a3-90a0-fdb2ff849afa
